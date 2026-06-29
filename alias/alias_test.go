@@ -5,8 +5,9 @@ import (
 	"slices"
 	"testing"
 
-	while "github.com/gloo-foo/cmd-while/alias"
 	"github.com/gloo-foo/testable"
+
+	while "github.com/gloo-foo/cmd-while/alias"
 )
 
 // The alias package re-exports the While constructor under an unprefixed name.

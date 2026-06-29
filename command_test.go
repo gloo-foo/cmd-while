@@ -4,8 +4,9 @@ import (
 	"bytes"
 	"testing"
 
-	command "github.com/gloo-foo/cmd-while"
 	"github.com/gloo-foo/testable"
+
+	command "github.com/gloo-foo/cmd-while"
 )
 
 func TestWhile_UpperCase(t *testing.T) {
